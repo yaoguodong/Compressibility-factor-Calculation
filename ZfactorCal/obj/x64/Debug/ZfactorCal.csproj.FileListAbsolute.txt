@@ -1,0 +1,8 @@
+c:\users\magny\documents\visual studio 2010\Projects\ZfactorCal\ZfactorCal\bin\x64\Debug\ZfactorCal.exe
+c:\users\magny\documents\visual studio 2010\Projects\ZfactorCal\ZfactorCal\bin\x64\Debug\ZfactorCal.pdb
+c:\users\magny\documents\visual studio 2010\Projects\ZfactorCal\ZfactorCal\obj\x64\Debug\ZfactorCal.Main.resources
+c:\users\magny\documents\visual studio 2010\Projects\ZfactorCal\ZfactorCal\obj\x64\Debug\ZfactorCal.Properties.Resources.resources
+c:\users\magny\documents\visual studio 2010\Projects\ZfactorCal\ZfactorCal\obj\x64\Debug\ZfactorCal.exe
+c:\users\magny\documents\visual studio 2010\Projects\ZfactorCal\ZfactorCal\obj\x64\Debug\ZfactorCal.pdb
+c:\users\magny\documents\visual studio 2010\Projects\ZfactorCal\ZfactorCal\obj\x64\Debug\ZfactorCal.DataBaseConn.resources
+C:\Users\magny\documents\visual studio 2010\Projects\ZfactorCal\ZfactorCal\obj\x64\Debug\ZfactorCal.csproj.GenerateResource.Cache
